@@ -1,0 +1,20 @@
+a{
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
+
+
+
+.unique{
+    color:black;
+    background-color: blanchedalmond;
+}
+
+.head{
+    color: white;
+
+    background-color: black;
+}
